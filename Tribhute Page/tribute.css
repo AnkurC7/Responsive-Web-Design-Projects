@@ -1,0 +1,90 @@
+
+.tg{
+  
+  text-align: center;
+  font-family: 'Didact Gothic', sans-serif;
+ 
+}
+
+
+#ull{ margin-left: 35%;
+font-family: 'Didact Gothic', sans-serif;}
+
+
+
+#img-div{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  max-width: 100%;
+  height: auto;
+
+}
+
+img{
+  padding: 10px;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-div{
+  
+  background: white;
+  
+}
+
+#main{
+  
+  background-color: #dbe0e2;
+}
+
+#title{
+  position: relative;
+  margin: 0px;
+  padding: 20px;
+  background-color: #9abcc9;
+  color: white;
+  font-family: 'Playfair Display', serif;
+}
+
+img{
+  border-radius: 10%;
+}
+
+#tribute-link
+{
+  display: flex;
+  justify-content: center;
+  
+}
+
+#img-caption{
+  padding: 10px;
+  background-color: #639ab0;
+  color: white;
+  border-radius: 8%;
+}
+#img-caption:hover{
+  background-color: #577f96;
+  transform: scale(1.06);
+}
+a{
+  text-decoration: none;
+  
+}
+#tribute-link{
+  
+  padding: 10px;
+  background-color: #639ab0;
+  color: black;
+  font-size: 14px;
+  
+}
+
+
+
+ 
+
+
