@@ -1,0 +1,54 @@
+.header{
+  background-color: #f2f7f6;
+  text-align: center;
+  margin: 0px 25% 0px 25%;
+  padding-bottom: 25px;
+  font-family: 'Didact Gothic', sans-serif;
+}
+#title{
+  margin-top: 20px;
+  padding-top: 20px;
+  font-family: 'Playfair Display', serif;
+  
+}
+
+#survey-form
+{
+  background: #f2f7f6;
+  
+  
+}
+form{
+  display: flex;
+  flex-direction: column;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-family: 'Didact Gothic', sans-serif;
+}
+#submit{
+  padding: 15px;
+  background-color: #55dc72;
+  color: white;
+  font-size: 16px;
+}
+#submit:hover{
+  background-color: #51cd6c;
+  transform: scale(1.05);
+}
+
+.box{
+  background-color: #e8eeee;
+  padding: 10px;
+}
+
+select{
+  padding: 8px;
+  
+}
+
+label{
+  padding: 6px;
+  margin: 1px;
+}
+
+
